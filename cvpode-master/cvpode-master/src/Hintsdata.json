@@ -1,0 +1,211 @@
+{
+  "HintsData": [
+    {
+      "code": "030",
+      "hint": "Nicht zu dieser Abteilung gehören:\r\n- Dienstleistungen in den Bereichen Landwirtschaft, Gartenbau und Jagd; diese gehören zu den Gruppen 771, 773 bzw. 776\r\n- Dienstleistungen in der Zoologie und Dienstleistungen von Tierzüchtern; diese gehören zu den Gruppen 774 und 775.\r\n- Dienstleistungen in der Forstwirtschaft und Holzgewinnung; diese gehören zur Gruppe 772 Dienstleistungen in der Forstwirtschaft\r\n- Mit dem Fischfang verbundene Dienstleistungen; diese gehören zur Gruppe 777\r\n- Tabakprodukte; diese gehören zur Klasse 1599\r\n- Landwirtschaftsmaschinen; diese gehören zu Abteilung 16\r\n"
+    },
+    {
+      "code": "03110",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Tabakprodukte; diese gehören zur Klasse 1599\r\n"
+    },
+    {
+      "code": "03120",
+      "hint": "Diese Klasse umfasst alle Arten von in der Gartenbauindustrie erzeugten Blumen und Pflanzen, lebende und Schnittblumen/Pflanzen, verarbeitete oder unverarbeitete Blumen/Pflanzen sowie Teile von Pflanzen aus der Gartenbauindustrie (Knollen, Wurzeln, Stecklinge, usw. )\r\nNicht zu dieser Klasse gehören:\r\n- Blumensamen; diese gehören zusammen mit anderen Samen zu Klasse 0311\r\n- Blumenknollen; diese gehören zusammen mit den Baumschulerzeugnissen zu Klasse 0345\r\n- Zierpflanzen aus der Forstwirtschaft; diese gehören zu Klasse 0344\r\n"
+    },
+    {
+      "code": "03130",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Zubereiteter bzw. verarbeiteter Kaffee, Tee, Mate oder Kräutertees; diese gehören zu Klasse 1586\r\n- Zubereitete oder verarbeitete Gewürze und Würzstoffe; diese gehören zur Klasse 1587\r\n"
+    },
+    {
+      "code": "03140",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Landwirtschaftsmaschinen; diese gehören zu Abteilung 16\r\n- Verarbeiteter Honig; dieser gehört zusammen mit Zucker und zugehörigen Erzeugnissen zu Klasse 1583\r\n- Wachse auf Mineralölbasis; diese gehören zu Klasse 0922\r\n- Pflanzliche Wachse; diese gehören zu Klasse 1542\r\n- Duftstoffe und Wachse; diese gehören zu Klasse 3981\r\n\r\n"
+    },
+    {
+      "code": "03210",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Saatgut; dieses gehört zu Klasse 0311\r\n- Kartoffelprodukte und verarbeitete Kartoffeln/Erdäpfel; diese gehören zu Gruppe 153\r\n"
+    },
+    {
+      "code": "03220",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Zubereitetes und verarbeitetes Gemüse, Obst und Schalenfrüchte; diese gehören zu Klasse 1533\r\n\r\n"
+    },
+    {
+      "code": "03310",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Zubereitetes oder verarbeitetes Fischfleisch; dieses gehört zu Gruppe 152\r\nFischfutter für andere Tiere; dieses gehört zu Klasse 1571\r\n"
+    },
+    {
+      "code": "03320",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Eier; diese gehören zu Klasse 0314\r\n- Fleisch, zubereitet oder verarbeitet; dieses gehört zu den Klassen 1511, 1513\r\n- Milchprodukte; diese gehören zu Klasse 155\r\n- Fleischfutter für andere Tiere; dieses gehört zu Klasse 1571\r\n"
+    },
+    {
+      "code": "03330",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Haltbar gemachte Milch und Milchprodukte; diese gehören zu Gruppe 155\r\n- Pelze und Pelzerzeugnisse; diese gehören zu Gruppe 186\r\n- Verarbeitete Wolle, Häute und Felle für Bekleidungszwecke; diese gehören zu Klasse 1928\r\n"
+    },
+    {
+      "code": "03410",
+      "hint": "Dieser Abschnitt soll nur bei der Beschaffung von Rohstoffen verwendet werden                                                                Nicht zu dieser Klasse gehören:\r\n- Holzstoff; dieser gehört zu Klasse 0346\r\n- Brennstoffe auf Holzbasis; diese gehören zu Klasse 0911\r\n- Holz als verarbeitetes Baumaterial; dieses gehört zu Klasse 4419 (Sperrholz, Parkettpanele, usw.)\r\n"
+    },
+    {
+      "code": "03420",
+      "hint": "Nicht zu dieser Klasse gehören:\r\nWachse\r\n"
+    },
+    {
+      "code": "03430",
+      "hint": "Dieser Abschnitt soll nur bei der Beschaffung von Rohstoffen verwendet werden.                                                               Nicht zu dieser Klasse gehören:\r\n- Kronenkorke; diese gehören zu Klasse 4461\r\n"
+    },
+    {
+      "code": "03440",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n \r\n- Pflanzen aus der Gartenbauindustrie; diese gehören zu Klasse 0312\r\n"
+    },
+    {
+      "code": "03450",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Erzeugnisse des Gartenbaus; diese gehören zu Klasse 0312\r\n"
+    },
+    {
+      "code": "090",
+      "hint": "Für eine genauere Beschreibung, bitte das Zusätzliche Vokabular, Abschnitt K, „Übrige Attribute für Energie und Wasserversorgung“ verwenden!\r\nNicht zu dieser Abteilung gehören:\r\n- Errichtung, Reparatur und Abbau von Bohrtürmen; diese gehören zu Kategorie 505315\r\n- Mit der Gewinnung von Erdöl und Gas, mit der Verflüssigung und Wiederverdampfung von Erdgas verbundene Dienstleistungen zwecks Beförderung; diese gehören zu Abteilung 76\r\n- Erdöl- und Gasexploration; diese gehört zu den Kategorien 71351 bzw. 71352\r\n"
+    },
+    {
+      "code": "09110",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Kohleprodukte; diese gehören zu Klasse 0924\r\nKernbrennstoffe; diese gehören zu Klasse 0934\r\n"
+    },
+    {
+      "code": "09120",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Verflüssigtes Petroleumgas (LPG); dieses ist in Klasse 0913 unter Mineralölerzeugnisse erfasst\r\n- Gase für den Antrieb von Raumschiffen; diese gehören zu Gruppe 241\r\n"
+    },
+    {
+      "code": "09130",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Schmierpräparate; diese gehören zu Klasse 0921\r\n- Petroleumgel, Wachse und Spezialbenzine; diese gehören zu Klasse 0922\r\n- Rohöl; dieses gehört zu Klasse 0923\r\n"
+    },
+    {
+      "code": "09210",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Schmiermittel, die aus einem anderen Stoff als Mineralöl erzeugt werden; diese gehören zu Klasse 2495\r\n"
+    },
+    {
+      "code": "09220",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Wachse, die aus einem anderen Stoff als Mineralöl erzeugt werden\r\n"
+    },
+    {
+      "code": "09320",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Heizsystemzubehör; dieses gehört zu Gruppe 441\r\n- Zentralheizungszubehör; dieses gehört zu Klasse 4462\r\n- Installations- und Bauarbeiten für mit Dampf und/oder Heißwasser betriebene Anlagen; diese gehören zu Abteilung 45\r\n- Dampfgeneratoren und -maschinen; diese gehören zu Gruppe 421\r\n- Rohrleitungen; diese gehören zu Klasse 4416\r\n"
+    },
+    {
+      "code": "09330",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Installations- und Bauarbeiten für Solarpanele; diese gehören zu Klasse 4526\r\n"
+    },
+    {
+      "code": "09340",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Uranerze; diese gehören zu Klasse 1461\r\n- Behandlung von radioaktiven Abfällen; diese gehört zu Klasse 9052\r\n"
+    },
+    {
+      "code": "140",
+      "hint": "Nicht zu dieser Abteilung gehören:\r\n- Gießereileistungen für Basismetalle oder Legierungen auf der Grundlage von Zeichnungen oder Modellen; diese gehören zu Klasse 7999\r\n- Beschichten von Metallen; dies gehört zu Klasse 7999\r\n- Beschichten von Nichtmetallen (Kunststoffbeschichtungen, Phosphatbeschichtung, Emaillierung, Betonüberzüge, usw.); dies gehört zu Klasse 7999\r\n- Sonstige Oberflächenbeschichtungen für Metalle; diese gehören zu Klasse 7999\r\n- Schmiede-, Stanz- und sonstige Pressteile aus Metall; diese gehören zu Klasse 7999\r\n- Pulvermetallurgische Erzeugnisse; diese gehören zu Klasse 7999\r\n- Bergbaugeräte; diese gehören zu Gruppe 431\r\n"
+    },
+    {
+      "code": "1420",
+      "hint": "Dieser Abschnitt soll nur bei der Beschaffung von Rohstoffen verwendet werden"
+    },
+    {
+      "code": "14310",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Organische Dünger; diese gehören zu Klasse 2443\r\n"
+    },
+    {
+      "code": "1440",
+      "hint": "Nicht zu dieser Gruppe gehört:\r\n- Tafelsalz; dieses gehört zu Klasse 1587"
+    },
+    {
+      "code": "14520",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Edelsteine und Halbedelsteine für Schmuck; diese gehören zu Klasse 1851\r\n"
+    },
+    {
+      "code": "1460",
+      "hint": "Dieser Abschnitt soll nur bei der Beschaffung von Rohstoffen verwendet werden. "
+    },
+    {
+      "code": "14610",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Metallische Erzeugnisse, die nach Produktnamen erfasst sind und bei denen das Material anhand des Zusätzlichen Vokabulars hinzugefügt wird.\r\n- Als Kernbrennstoff aufbereitetes Uran; dieses gehört zu Klasse 0934\r\n"
+    },
+    {
+      "code": "14620",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Legierungsprodukte, die nach Produktnamen erfasst sind und bei denen das Material anhand des Zusätzlichen Vokabulars hinzugefügt wird."
+    },
+    {
+      "code": "1470",
+      "hint": "Dieser Abschnitt soll nur bei der Beschaffung von Rohstoffen verwendet werden."
+    },
+    {
+      "code": "1480",
+      "hint": "Dieser Abschnitt soll nur bei der Beschaffung von Rohstoffen verwendet werden."
+    },
+    {
+      "code": "1490",
+      "hint": "Dieser Abschnitt soll nur bei der Beschaffung von Rohstoffen verwendet werden"
+    },
+    {
+      "code": "150",
+      "hint": "Nicht zu dieser Abteilung gehören:\r\n- Maschinen für die Verarbeitung von Lebensmitteln, Getränken und Tabak und zugehörige Teile; diese gehören zu Gruppe 422\r\n"
+    },
+    {
+      "code": "15110",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Lebende Tiere; diese gehören zu Gruppe 033\r\n"
+    },
+    {
+      "code": "1520",
+      "hint": "Nicht zu dieser Gruppe gehören:\r\n- Frischer Fisch; dieser gehört zu Klasse 0331\r\n- Fischfutter für andere Tiere; dieses gehört zu Klasse 1571\r\n- Fischsuppe; diese gehört zu Klasse 1589\r\n"
+    },
+    {
+      "code": "15310",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Unverarbeitete Kartoffeln; diese gehören zu Klasse 0321\r\n"
+    },
+    {
+      "code": "15330",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Rohes Gemüse, Obst und Schalenfrüchte; diese gehören zu Klasse 032\r\n"
+    },
+    {
+      "code": "1540",
+      "hint": "Nicht zu dieser Gruppe gehören:\r\n- Maisöl, das unter Stärken und Stärkeerzeugnisse – Klasse 1562 – erfasst ist\r\n- Kakaobutter, Kakaofett oder Kakaoöl, die in Klasse 1584 erfasst sind\r\n- Ätherische Öle; diese gehören zu Klasse 2492\r\n\r\n"
+    },
+    {
+      "code": "15510",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Frischmilch; diese gehört zu Klasse 0333\r\n- Schokoladenmilch; diese gehört zu Klasse 1598\r\n"
+    },
+    {
+      "code": "15620",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Glukoselösungen für medizinische Zwecke; diese gehören zu Klasse 3369"
+    },
+    {
+      "code": "15810",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Geröstete Brotwaren; diese gehören zur Klasse 1582\r\n\r\n"
+    },
+    {
+      "code": "15830",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Naturhonig; dieser gehört zu Klasse 0314\r\n"
+    },
+    {
+      "code": "15840",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Kakaobohnen; diese gehören zu Klasse 0313\r\n- Schokoladenmilch; diese gehört zu Klasse 1598\r\n\r\n"
+    },
+    {
+      "code": "15850",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Gries; dieser gehört zu Klasse 1562. In dieser Klasse sollte „Couscous” als volle Mahlzeit verstanden werden.\r\n"
+    },
+    {
+      "code": "15860",
+      "hint": "Nicht zu dieser Klasse gehören:\r\n- Teesträucher und Rohmate; diese gehören zu Klasse 0313\r\n\r\n"
+    },
+    {
+      "code": "1660",
+      "hint": "Nicht zu dieser Gruppe gehören:\r\n- Trockenöfen für landwirtschaftliche Erzeugnisse, die unter Maschinen für die Verarbeitung von Lebensmitteln in Klasse 4221 erfasst sind\r\n"
+    },
+    {
+      "code": "1670",
+      "hint": "Nicht zu dieser Gruppe gehören:\r\n- Teile und Zubehör für Landwirtschaftsmaschinen; diese gehören zu Gruppe 343\r\n"
+    },
+    {
+      "code": "1680",
+      "hint": "Nicht zu dieser Gruppe gehören:\r\n- Reparatur, Wartung und Installation von land- und forstwirtschaftlichen Maschinen; diese gehören zu den Klassen 5053 bzw. 5152\r\n"
+    },
+    {
+      "code": "180"
+    }
+  ]
+}
